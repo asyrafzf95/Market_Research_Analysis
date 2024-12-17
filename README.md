@@ -42,7 +42,3 @@ In today's competitive financial landscape, understanding customer behavior is k
 - **Real-World Application**: Analysis commissioned by an entrepreneur, with tangible business implications.
 - **Technical Depth**: Employing a blend of data preparation, visualization, and statistical testing.
 - **Business Insights**: Uncovering actionable insights that can guide product development and marketing strategies.
-
-## Connect with Me
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/fernando-lacerda-/) or visit my [personal portfolio](https://github.com/Lacerdash) to explore more projects.
